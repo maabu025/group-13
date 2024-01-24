@@ -1,3 +1,2 @@
-Group-13
-gRoup-13
+group-13
 group-13
